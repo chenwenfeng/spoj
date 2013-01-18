@@ -1,0 +1,4 @@
+sbt test
+sonsole
+help
+sbt run

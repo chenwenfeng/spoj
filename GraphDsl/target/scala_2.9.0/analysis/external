@@ -1,0 +1,4 @@
+#External Dependencies
+#Wed Jan 16 21:59:03 CST 2013
+/home/cwf/tools/jdk/jdk1.7.0/jre/lib/rt.jar=src/main/scala/Graph.scala\:src/main/scala/Dijkstra.scala\:src/main/scala/GraphDsl.scala\:src/main/scala/Test.scala
+/home/cwf/work/oj/GraphDsl/project/boot/scala-2.9.0/lib/scala-library.jar=src/main/scala/Graph.scala\:src/main/scala/Dijkstra.scala\:src/main/scala/GraphDsl.scala\:src/main/scala/Test.scala

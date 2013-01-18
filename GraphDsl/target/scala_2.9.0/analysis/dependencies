@@ -1,0 +1,6 @@
+#Source Dependencies
+#Wed Jan 16 21:59:03 CST 2013
+src/main/scala/Graph.scala=src/main/scala/GraphDsl.scala
+src/main/scala/Test.scala=
+src/main/scala/GraphDsl.scala=src/main/scala/Test.scala
+src/main/scala/Dijkstra.scala=src/main/scala/Graph.scala
